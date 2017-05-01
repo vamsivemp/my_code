@@ -16,7 +16,7 @@ private long id;
 private String username;
 private String email;
 private Date userRegisteredDate;
-//some comment
+//avinash has made comment
 User(){
 }
 
