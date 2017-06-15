@@ -44,26 +44,3 @@ public class UserController {
 	}
 
 }
-
-
-
-//@GET
-// @Path("/books")
-// public String getBooks() {...}
-//
-// @GET
-// @Path("/book/{isbn}")
-// public String getBook(@PathParam("isbn") String id) {
-//    // search my database and get a string representation and return it
-// }
-//
-//@ResponseStatus( HttpStatus.CREATED )
-// @PUT
-// @Path("/book/{isbn}")
-// public void addBook(@PathParam("isbn") String id, @QueryParam("name") String name) {...}
-//
-// @DELETE
-// @Path("/book/{id}")
-// public void removeBook(@PathParam("id") String id {...}
-//
-//
