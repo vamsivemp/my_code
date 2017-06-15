@@ -12,11 +12,11 @@ public class User{
 
 @Id
 @GeneratedValue(strategy=GenerationType.AUTO)
-private long id;	
+private long id;
 private String username;
 private String email;
 private Date userRegisteredDate;
-
+//avinash has made
 User(){
 }
 
